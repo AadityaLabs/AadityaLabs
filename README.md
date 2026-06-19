@@ -12,16 +12,7 @@ Frontend Developer with hands-on experience building and managing responsive web
 ![](https://streak-stats.demolab.com/?user=AadityaLabs&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AadityaLabs&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AadityaLabs&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AadityaLabs&limit=5&theme=merko&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=AadityaLabs&icon=0&color=7)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
